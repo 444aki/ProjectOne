@@ -1,0 +1,190 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.projectone"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\bisht\.gradle\caches\transforms-3\c3e69babb64c62de588e9ea3842e939a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.projectone.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\bisht\.gradle\caches\transforms-3\c3e69babb64c62de588e9ea3842e939a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\bisht\.gradle\caches\transforms-3\c3e69babb64c62de588e9ea3842e939a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.projectone.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] C:\Users\bisht\.gradle\caches\transforms-3\c3e69babb64c62de588e9ea3842e939a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\bisht\.gradle\caches\transforms-3\c3e69babb64c62de588e9ea3842e939a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:5:5-47:19
+18        android:allowBackup="true"
+18-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] C:\Users\bisht\.gradle\caches\transforms-3\c3e69babb64c62de588e9ea3842e939a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:8:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:9:9-43
+25        android:label="@string/app_name"
+25-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:10:9-41
+26        android:supportsRtl="true"
+26-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:11:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.ProjectOne" >
+28-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:12:9-48
+29        <activity
+29-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:14:9-18:55
+30            android:name="com.example.projectone.TrackActivity"
+30-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:15:13-42
+31            android:exported="false"
+31-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:16:13-37
+32            android:label="@string/title_activity_track"
+32-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:17:13-57
+33            android:theme="@style/Theme.ProjectOne" />
+33-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:18:13-52
+34        <activity
+34-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:19:9-23:55
+35            android:name="com.example.projectone.MainActivity"
+35-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:20:13-41
+36            android:exported="false"
+36-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:21:13-37
+37            android:label="SleepTracking"
+37-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:22:13-42
+38            android:theme="@style/Theme.ProjectOne" />
+38-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:23:13-52
+39        <activity
+39-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:24:9-28:55
+40            android:name="com.example.projectone.MainActivity2"
+40-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:25:13-42
+41            android:exported="false"
+41-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:26:13-37
+42            android:label="RegisterActivity"
+42-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:27:13-45
+43            android:theme="@style/Theme.ProjectOne" />
+43-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:28:13-52
+44        <activity
+44-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:29:9-33:55
+45            android:name="com.example.projectone.HomePageActivity"
+45-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:30:13-45
+46            android:exported="false"
+46-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:31:13-37
+47            android:label="@string/app_name"
+47-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:32:13-45
+48            android:theme="@style/Theme.ProjectOne" />
+48-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:33:13-52
+49        <activity android:name="com.example.projectone.SmartAlarmActivity" />
+49-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:34:9-56
+49-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:34:19-53
+50        <activity android:name="com.example.projectone.MusicActivity" />
+50-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:35:9-51
+50-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:35:19-48
+51        <activity
+51-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:36:9-46:20
+52            android:name="com.example.projectone.LoginActivity"
+52-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:37:13-42
+53            android:exported="true"
+53-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:38:13-36
+54            android:label="@string/app_name"
+54-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:39:13-45
+55            android:theme="@style/Theme.ProjectOne" >
+55-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:40:13-52
+56            <intent-filter>
+56-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:41:13-45:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:42:17-69
+57-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:42:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:44:17-77
+59-->D:\random\AndroidDev\Sleep-tracking-main\app\src\main\AndroidManifest.xml:44:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <service
+63-->[androidx.room:room-runtime:2.5.0] C:\Users\bisht\.gradle\caches\transforms-3\4309c97ebbd6c0fdc0cac9c97e41db19\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+64            android:name="androidx.room.MultiInstanceInvalidationService"
+64-->[androidx.room:room-runtime:2.5.0] C:\Users\bisht\.gradle\caches\transforms-3\4309c97ebbd6c0fdc0cac9c97e41db19\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+65            android:directBootAware="true"
+65-->[androidx.room:room-runtime:2.5.0] C:\Users\bisht\.gradle\caches\transforms-3\4309c97ebbd6c0fdc0cac9c97e41db19\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+66            android:exported="false" />
+66-->[androidx.room:room-runtime:2.5.0] C:\Users\bisht\.gradle\caches\transforms-3\4309c97ebbd6c0fdc0cac9c97e41db19\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+67
+68        <activity
+68-->[androidx.compose.ui:ui-tooling:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\280b131bb25e5630f81e39beabaa1bea\transformed\ui-tooling-1.2.0\AndroidManifest.xml:24:9-26:39
+69            android:name="androidx.compose.ui.tooling.PreviewActivity"
+69-->[androidx.compose.ui:ui-tooling:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\280b131bb25e5630f81e39beabaa1bea\transformed\ui-tooling-1.2.0\AndroidManifest.xml:25:13-71
+70            android:exported="true" />
+70-->[androidx.compose.ui:ui-tooling:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\280b131bb25e5630f81e39beabaa1bea\transformed\ui-tooling-1.2.0\AndroidManifest.xml:26:13-36
+71        <activity
+71-->[androidx.compose.ui:ui-test-manifest:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\26f1dbfda8720dd08f31ae18a7932ecf\transformed\ui-test-manifest-1.2.0\AndroidManifest.xml:24:9-26:39
+72            android:name="androidx.activity.ComponentActivity"
+72-->[androidx.compose.ui:ui-test-manifest:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\26f1dbfda8720dd08f31ae18a7932ecf\transformed\ui-test-manifest-1.2.0\AndroidManifest.xml:25:13-63
+73            android:exported="true" />
+73-->[androidx.compose.ui:ui-test-manifest:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\26f1dbfda8720dd08f31ae18a7932ecf\transformed\ui-test-manifest-1.2.0\AndroidManifest.xml:26:13-36
+74
+75        <provider
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\93154bd97a4503295e3c0faecb21628e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+76            android:name="androidx.startup.InitializationProvider"
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\93154bd97a4503295e3c0faecb21628e\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+77            android:authorities="com.example.projectone.androidx-startup"
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\93154bd97a4503295e3c0faecb21628e\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+78            android:exported="false" >
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\93154bd97a4503295e3c0faecb21628e\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+79            <meta-data
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\93154bd97a4503295e3c0faecb21628e\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\93154bd97a4503295e3c0faecb21628e\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+81                android:value="androidx.startup" />
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\93154bd97a4503295e3c0faecb21628e\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:30:13-32:52
+83                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+83-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:31:17-85
+84                android:value="androidx.startup" />
+84-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:32:17-49
+85            <meta-data
+85-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\bisht\.gradle\caches\transforms-3\0d5efd1413c333b64f3747cebc3f74fb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+86                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\bisht\.gradle\caches\transforms-3\0d5efd1413c333b64f3747cebc3f74fb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+87                android:value="androidx.startup" />
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\bisht\.gradle\caches\transforms-3\0d5efd1413c333b64f3747cebc3f74fb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+88        </provider>
+89
+90        <receiver
+90-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:35:9-47:20
+91            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+91-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:36:13-76
+92            android:directBootAware="false"
+92-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:37:13-44
+93            android:enabled="true"
+93-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:38:13-35
+94            android:exported="true"
+94-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:39:13-36
+95            android:permission="android.permission.DUMP" >
+95-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:40:13-57
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:41:13-43:29
+97                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:17-91
+97-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:25-88
+98            </intent-filter>
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:44:13-46:29
+100                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+100-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:17-85
+100-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\bisht\.gradle\caches\transforms-3\0a6b5b495426ae159969d7c51bf87af6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:25-82
+101            </intent-filter>
+102        </receiver>
+103    </application>
+104
+105</manifest>

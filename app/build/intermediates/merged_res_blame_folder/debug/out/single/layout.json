@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.projectone.app-mergeDebugResources-50:/layout/activity_music.xml",
+        "source": "com.example.projectone.app-main-53:/layout/activity_music.xml"
+    },
+    {
+        "merged": "com.example.projectone.app-mergeDebugResources-50:/layout/activity_smart_alarm.xml",
+        "source": "com.example.projectone.app-main-53:/layout/activity_smart_alarm.xml"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable_purpleblue.jpg.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable\\purpleblue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable-nodpi_sleep.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable-nodpi\\sleep.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\raw_alarm.mp3.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\raw\\alarm.mp3"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\raw_alarmfour.mp3.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\raw\\alarmfour.mp3"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\raw_rain.mp3.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\raw\\rain.mp3"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\layout_activity_music.xml.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\layout\\activity_music.xml"
+    },
+    {
+        "merged": "com.example.projectone.app-merged_res-51:/drawable_timer.png.flat",
+        "source": "com.example.projectone.app-main-53:/drawable/timer.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable_blueblack.jpg.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable\\blueblack.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable_bear.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable\\bear.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable_tiles.jpg.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable\\tiles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable_msuic.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable\\msuic.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\layout_activity_smart_alarm.xml.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\layout\\activity_smart_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable-nodpi_sleepicon.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable-nodpi\\sleepicon.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable-nodpi_sleeptracking.jpg.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable-nodpi\\sleeptracking.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable_purpleblacker.jpg.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable\\purpleblacker.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable_greenblack.jpg.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable\\greenblack.jpg"
+    },
+    {
+        "merged": "com.example.projectone.app-merged_res-51:/drawable_alarmclock.png.flat",
+        "source": "com.example.projectone.app-main-53:/drawable/alarmclock.png"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\drawable_peakpx.jpg.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\drawable\\peakpx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-merged_res-51:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bisht\\.gradle\\daemon\\7.5\\com.example.projectone.app-main-53:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    }
+]
